@@ -1,0 +1,978 @@
+Which of the following returns the hostname and port of the current URL?|Location
+Which of the following are the advantages of using JavaScript for form validation?|All of the others
+width="100" and width="100%" is ?|Different
+Radio buttons let|checked
+Which statement is wrong about headings in HTML document?|h6 defines the most important heading
+var t = newDate(2020.6.10) var y = t.getFullYear(); What is value of y variable?|2020
+Which statement is right about web browser?A All of the others|A web browser is
+Select the property that is used to create spacing between HTML elements?|padding
+ CSS,Select the property used to set the spacing in between lines of text?|line-height
+For users that use the tab key to navigate websites, what property represents this way of moving from one element to another?|a:focus
+The four links states are|None of the others
+The four links states are  a:link, a:visited, a:hover, a:active |True
+How do you find out which character occurs at the 5th position in|subString()
+When can you not trigger JavaScnpt from an event handler?|When JavaScript is disable
+The four links states are a:connect;a:visited;a:action; a:hover|False
+You can use property to change the list style to show roman numerals instead of normal numbers?|List-style-type: upper-roman:
+var pattern=/^[SE][0-9]{3}$/;Which string is right with above pattern?A E222|SE1
+What does this function do? function f(val) {Return val ? 1:2}|It returns 1 if val is thuth. otherwise 2
+HTML5 tags have the same semantic meaning, regardless of the browser being used.|True
+Unlike earlier versions of HTML, HTML5 produces pages that look the same across all browsers.|True
+FTP stands for|File Transfer Protocol
+HTTP stands for|Hyper Text Transfer Protocol
+The Internet is|type of
+HTML5 is|WHATWG
+ basic functionality of browsers is to translate HTML documents into viewable webpages.|True
+ single web page may require several iterations of the Request-Response Cycle.|True
+Which version of HTML introduced semantic tags?|HTML 5
+Which version of HTML included browser specific features?|HTML 3.2
+The predecessor of the internet was|Arpanet
+URL stands for|Uniform Resource Locator
+The first graphical browser was.... (please use one word answer)|mosaicWhich of the following is an example of|top-level domain?
+The Domain Name Service looks up the domain and returns the|IP address
+Which organization is responsible for assigning top-level domain names?|Internet Corporation for Assigned Numbers and Names (ICANN)
+The Request-Response Cycle...|may require several iterations of the Request-Response Cycle.
+What does LAN stand for?|local-areanetworkWhat does WAN stand for?|wideareanetworkHTML uses _________ to annotate documents. This is|tagsHTML5 should not...|take advantage of the most up-to-date plugins.
+Which of the following best explains the difference between syntax and semantics.|page if the semantics is incorrect.
+What are proprietary tags?|Tags that work only on certain browsers
+Which of these tags breaks the tenet of the separation of content and layout?|font
+Which of the following are browsers?|Chrome, Firefox, Safari
+Which of the following is an example of|top-level domain?
+What does HTML stand for?|hypertextmarkuplanguageWhich of the following is part of|URL?
+What is the Request/Response Cycle?|HTML5 is created with an editor
+ ________________________ is|serverThe original developers of HTML were opposed to the addition of tags for graphical images.|True
+Which of these tags breaks the tenet of the separation of content and layout?|br
+W3C stands for ________.|World Wide Web Consortium
+Which version of HTML introduced different document types?|HTML 4.01
+_____________ is used to create rules about the color, font, and layout of our pages|cssSemantics is|the practice of giving content on the page meaning and structure by using proper element
+Semantic code describes the ___ of content on|number
+Using tags that have semantic meaning|increases accessibility and improve search engine optimization
+Using the header and footer tags can improve the search engine optimization for your page.|True
+Every well-formed HTML document should include:|doctype, head, body
+What is wrong with the following code? <a href = "picture.jpg">My dog</a> chews socks.|This code is semantically and syntactically correct.
+Block-level elements begin on|new line
+Inline-level elements begin on|True
+ <div> block is an inline-level element|False
+ <span> block is an inline-level element|True
+Which tag represents|<break>
+Which of the following is the correct way to comment on HTML5?|<!-- HTML -->
+Which of the following are valid tags for HTML5 headings?|<h5>..</h5>
+Which set of element tags is used to create the highest level heading?|<h1>...</h1>
+All of the content you wish to appear on the screen should be in which tag?|<body>
+Which tag is used to create|<hyper>
+Which of the following code is the correct way to link to an email address?|<a href= "shayhowe@awesome.com?subject=Hi&body=How%20are%20you">Email</a>
+Which of the following code is the correct way to link to an email address?|<a href= "mailto:shayhowe@awesome.com?subject=Hi&body=How%20are%20you">Email</a>
+Which HTML element is used to define list items?|<li>
+The start attribute defines the number from which an unordered list should start.|False
+Which code properly creates the nested list structure shown here? 1. Vegetables 2. Fruit ·Blueberries ·Bananas Notice that the blueberries and bananas are part of the fruit component.|False
+The <ul> and <ol> elements may contain only <li> elements.|True
+The tags to create definitions are:|<dl>, <dt>, <dd>
+What should target = "_blank" do when included in|link tag?
+ order for the <img> element to work,|src attribute and value must be included to specify the source of the image.
+The alt text of an image should describe the appearance of an image|False
+When should an image have null (empty) alt text (alt - "")|When the image is decorative
+Which of the following is the best way to use|Font Awesome icon to link to Twitter?
+What are the elements to help organize the data and structure of|<caption>, <thead>, <tbody>, <foot>
+What does <thead> stand for?|Table header
+The reverse attribute allows|reverse order in an unordered list.
+Which attribute can be used to change its number within an ordered list?|value
+What is wrong with the following code? <a href = "http://www.umich.edu"></a>|This code is semantically and syntactically correct.
+Which HTML element will number items for you?|<ol>
+Which of the following is not an option for specifying|color name
+Which of the following is not an option for specifying|Use the color name
+ your body tag uses the style attribute style="text-align:center", you can overwrite that property by using the CSS3 rule. body{ text-align: left; }|False //The style attribute has
+What is wrong with the following code? body{ color: #000000; background-color:#FFFFFF font-family: Times, Arial, Cursive; }|There is
+What is wrong with the following rule? body{ color: #000000; background-color:#FFFFFF; font-family: Times, Arial, Cursive; }|single rule
+Assume the following rule is the only one that styles the body element: body{ font-family: Cursive, Helvetica, Verdana; } What happens if the browser doesn't support Cursive or Helvetica?|The text will be displayed in Verdana //The browser applies the first value that matches from left-to-right.
+The browser defaults override rules specified in an external style sheets.|False
+Using the code below, will the body of the page have the background-color defined in the file style.css or the background color define in the <style> tag? <head> <meta charset = "UTF-8"> <title>Test code</title> <link rel "stylesheet" href = "style.css"> <style> body{ background-color: #44CCDD; } </style> </head>|<style>
+Internal styling (rules specified in the <head> section) override rules specified with the style attribute in|True B.False
+The default display value for paragraphs is:|block
+The default display value for <span> is:|inline
+ block element takes up the full width of it's parent, even if the content is smaller than the parent. So two block elements at the same will not be side-by-side.|True
+Inline elements take up the full width of the browser, even if the content is smaller than the browser size.|False
+Which CSS3 property is used to center text? (Provide on the property, not the value!)|text-alignWhich of the following is the best way to convey that your text has special meaning?|Using semantic tags in addition to color and/or font.
+Every valid web page can be represented as|tree. This tree is referred to as the
+JavaScript uses what kind of interface to access the DOM structure?|an API //This is an important term to know since there is
+Which of these is not valid? (Hint, pay attention to if the method should return one thing, or many things...)|document.getElementsById(idName)
+Which of the following is not|valid method for generating output to the screen?
+Which of these options does NOT require the use of parentheses?|innerHTML
+Which of the following does not generate output directly to the screen?|console.log(message);
+How does prompt differ from alert?|The prompt will return
+Variables allow you to save data.|True
+ JavaScript the keyword ___________ is used to declare|varWhat does it mean that variables are case-sensitive?|That the computer does not think that the variables name and Name are the same thing.
+Which of the following is not|valid variable name?
+Which of the following is not|variable_2
+What does mnemonic mean?|That variable names should help describe the value being stored.
+What is wrong with this code? var name = "Mike"; "Colleen" = name;|This code is illegal and it doesn't make sense to have
+What value is stored in name if the person hits the Cancel button on|nullWhat value is stored in name if the person hits the Okay button on|prompt before entering anything? var name = prompt("What is your name?");
+ create|String variable, use quotes around the value you want to save.
+Boolean variables store either true or false.|True
+When|Boolean
+ function that wants to return multiple values at once (such as document.getElementsByTagName) will return a/an|Array
+Which of the following is not|+=
+What is the difference between == and === ?|The == operator only checks for equivalent values, not equivalent type too.
+Which of the following is NOT|fluid measurement
+Responsive Web Design is...|Designing pages for multiple platforms by incorporating fluid measurements and varying CSS rules.
+Adaptive design with dynamic serving is....|Designing multiple pages, one for each type of major device (phone, tablet, laptop, and desktop)
+Which of the following is|true statement about using
+The mobile version of your web page should have the same capabilities of every other version of your site.|True
+The mobile version of your web page should have the same layout of every other version of your site.|False
+The fluid measurement % can only be used on non-textual elements|False
+Responsive sites can have|mixture of fluid and absolute measurements.
+Which of the following statements best describes what pixels, ems, and rems have in common?|They are all fluid units of measurement that define the screen resolution of
+Which of the following measurements is relative to the size of its parent element?|em
+ _______ is the size of type as computed relative to the type size of the top level "html" element rather than|remConsider the following CSS rules: div{ width: 80%; } @media all and (min-width: 500px){ div{ width: 25%; } } What is the width of any div elements on|350px screen?
+Consider the following CSS rules: div{ width: 80%; } @media all and (min-width: 500px){ div{ width: 25%; } } What is the width of any div elements on|80%
+Consider the following CSS rules: @media all and (min-width: 500px){ div{ width: 25%; } } div{ width: 80%; } What is the width of any div elements on|100%
+Consider the following CSS rule: div{ width: 80%; } @media print { div{ width: 25%; } } Which of the following is|true statement?
+Which of the following code segments will keep people from being able to zoom in or out on your content?|<meta name = 'viewport' content='width=device-width, initial-scale=1, maximum-scale = 1'>
+Which term is used to define the different viewport sizes that trigger media queries?|breakpoint
+Wireframes should...|specify the layout and content of your pages
+ key component of your wireframes should test|interaction
+Give an example screen width size for|mobile phone using pixels. (Just provide
+Give an example screen width size for|number, and not the px!!!) -250 //most screens are at least 300px and less than 768px.
+Which of the following is|lot of what you do with web design will require
+Breakpoints often correspond with common screen sizes for phones, tablets, and laptops.|True
+True or False, Boostrap is mobile-first|True
+The Bootstrap 3 grid system is based on how many columns? -12|True
+True or False, the Bootstrap grid system works across multiple devices.|True
+Which of the following bootstrap classes are used to create|<ul class="nav nav-tabs justified">
+Which of the following bootstrap classes are used to add|<nav class="dropdown-menu">
+Consider the following code using Bootstrap 3: <div class = "col-md-3 col-lg-7"> In an xs viewport the div will be _____ columns wide.|12
+Consider the following code using Bootstrap 3: <div class = "col-sm-6 col-lg-4"> In|4
+Consider the following code using Bootstrap 3: <div class = "col-sm-8 col-lg-4"> In|4
+Consider the following code using Bootstrap 3: <div class = "col-lg-2 col-sm-5"> In|lg viewport the div will be _____ columns wide.
+Consider the following code using Bootstrap 3: <div class = "col-md-5 col-lg-2"> In|5
+Consider the following code using Bootstrap 3: <div class = "col-sm-7 col-lg-2"> In an xs viewport the div will be _____ columns wide.|12
+True or false, Bootstrap is|True
+True or false, Bootstrap is|framework for front-end web development.
+Bootstrap uses ...|HTML, CSS, and JavaScript
+Which of the following is|benefit of using the Bootstrap CDN?
+True or False, with Bootstrap you need to change your HTML code to utilize the Bootstrap classes.|True
+This may seem like an odd question, but I am going to ask you what the URL is for the Bootstrap 3 website. - getbootstrap.com|True
+ you are using an editor (not CodePen) you will need to reference Bootstrap resources where?|link to jQuery and JavaScript
+Designing multiple pages, one for each type of major device (phone, tablet, laptop, and desktop) is called|Adaptive Design
+Consider the following code where the font-size of|numeric answer only, no measurements.)
+Consider the following CSS rules: div{ width: 25%; } @media all and (min-width: 500px){ div{ width: 50%; } } What is the width of any div elements on|100%
+Which Bootstrap class will apply|striped look to
+ you created|The link to the Bootstrap HTML code.
+Which of the following is|recommended way to incorporate Bootstrap into your code?
+JavaScript code must be placed in the <head> section of the document.|False
+Which is the correct syntax to change the contents of the HTML element below? <p id = "quiz">This is|quiz. </p>
+Where can you put JavaScript?|In the head and body section
+Which word is used to define|script
+If|True
+ function can be called multiple times in|single file.
+You can define|function without calling it.
+You can call|True
+Conditional statements change the flow of execution in|program — the "next" line of code in the program is not always the next one that is executed.
+Assume you have|page with four paragraph tags, one of which has the id "second". What is the proper JavaScript code to change the content of that paragraph to "What does the Fox say?" Note: The quotes shouldn't be part of the value. Please end the line of code with
+Assume you have|page with four paragraph tags. What is the proper JavaScript code to change the content of the second paragraph to "What does the Fox say?"
+How do you properly access the third element in an array variable named "fruit"?|None of the above
+How do you properly access the first element in an array variable named "fruit"|fruit[0]
+Where can you put JavaScript?|and
+Which attribute is used to link to an external JavaScript file?|src; e.g., src = "extFile.js"
+Which of the following best defines the relationship between defining|function?
+Consider the following code: <body> <p> This is paragraph one </p> <p onclick = "Hello()"> This is paragraph two </p> </body> The function Hello() will be called every time:|The user clicks on the second paragraph on the page
+What is wrong with this function definition? function Hello();{ alert("Hello"); document.write("Hello on the screen"); }|The semicolon after Hello()
+Assume that this code is linked together correctly. p{ color: red; padding:10px 5px; background: black;} .fancy{ font-family: cursive; background: red; color: green;} .plain{ font-family: Times, serif; color: black;} <p>Hi</p> What color font is used to display "Hi"?|red
+This is probably|typo, why? .body{ margin: 10px;}
+What is true about this code? <p class = "fancy box"> ....</p>|From this code, you can't know which styling will take precedence.
+The class selectors are part of the DOM |True B.False
+The id selectors are part of the DOM.|True B.False
+Descendant selectors nav a{ .... } are more specific than child selectors nav>a{ .... }|False
+Assume that this code is linked together correctly. p{ color: red; padding:10px 5px; background: black; } .fancy{ font-family: cursive; background: red; color: green; } .plain{ font-family: Times, serif; color: black; } <p class = "plain fancy">Hi</p> What color font is used to display "Hi"?|black
+Assume that this code is linked together correctly. p{ color: red; padding:10px 5px; background: black; } .fancy{ font-family: cursive; background: red; color: green; } .plain{ font-family: Times, serif; color: black; } <p class = "fancy plain">Hi</p> What color font is used to display "Hi"?|black
+ the following code snippet, what value is given for the left margin?margin: 5px 10px 3px 8px;|8px
+Which of the following is NOT|browser prefix?
+Descendant selectors nav a{ .... } are more general than child selectors nav>a{ ... }|True B.False
+The default value for the position property is: |static
+What is wrong with this code? div{ position: static; left: 10px; }|The code works, but the left property is not necessary since static elements don't allow offsets
+Which of the following is the proper syntax for|:pseudo-class { property:value; }
+Which of the following rules styles the first paragraph in each div?|div p:first-child { color: blue; }
+Which CSS3 property allows you to change property values smoothly over|focus
+Sometimes elements overlap one another. Which property specifies the stacking order of the elements? (A high value means it is more likely to be place in front of another.) ONLY PROVIDE THE PROPERTY, NOT|VALUE.
+The first graphical browser was.... (please use one word answer)|mosaic
+What does LAN stand for?|local-areanetwork
+What does WAN stand for?|wideareanetwork
+HTML uses _________ to annotate documents. This is|tags
+What does HTML stand for?|hypertextmarkuplanguage ________________________ is|server
+_____________ is used to create rules about the color, font, and layout of our pages|css
+Which CSS3 property is used to center text? (Provide on the property, not the value!)|text-align
+ JavaScript the keyword ___________ is used to declare|var
+What value is stored in name if the person hits the Cancel button on|null
+ _______ is the size of type as computed relative to the type size of the top level "html" element rather than|rem
+The <ul> and <o> elements may contain only <li> elements. ( T/F )|True
+The tags to create definitions are;|<dl>, <dt>, <dd>
+What should target = "_blank" do when included in a link tag?|Opens the link in a new tab or window
+In order for the <img> element to work, a src attribute and value must be included to specify the source of the image. ( T/F )|True
+The alt text of an image should describe the appearance of an image ( T/F )|False
+When should an image have null (empty) alt text (alt - "")|When the image is decorative
+What are the elements to help organize the data and structure of a table?|<caption>, <thead>, <tbody>, <tfoot>
+What does <thead> stand for?|Table head
+Which code will properly insert headings along each row?|<table>  <tr><th>Name</th><td>Colleen</td></tr>  <tr><th>Age</th><td>26</td></tr>  <tr><th>Team</th><td>Browns</td></tr> </table>
+What validation error will this code produce? <!DOCTYPE html> <html lang="en"> <head>  <meta charset="UTF-8"> <title>Testing</title> </head> <body> <p>  <h2>Validate me!</h2>  </p> </body> </html>|No p element in scope but a p end tag seen
+What validation error will this code produce? <!DOCTYPE html> <html lang="en"> <head></head> <body>  <p> Validate me! </p> </body> </html>|Element head is missing a required instance of child element title
+To access your cPanel account, you need ...|a username and password from your hosting server
+To publish your site online you need|a domain name and hosting service
+To use ftp software to transfer files you will typically need to know your site's ftp address or ip address. ( T/F )|True
+Which is the best/proper way to declare that your page uses the HTML5 protocol?|<!DOCTYPE html>
+Which is the best/proper way to declare that the language for your page is English?|<html lang="en">
+What is the best/proper way to create the meta-data for your page?|<head>  <meta charset="utf-8">  <title>Mister Rogers</title> </head>
+Which is the best/proper way to declare a section that has an h2 heading and three progress elements?|False
+What is the best/proper way to declare a section that has an h2 heading and uses a detail tag? A.<section> <h2>More about me</h2> <details open> <h2>My Childhood</h2> <p>stuff happened, I grew up</p> </details> </section> B.<section> <h2>More about me</h2> <details open> <summary>My Childhood</summary> <p>stuff happened, I grew up</p> </details> </section> C.<section> <h2>More about me</h2> <details> <summary>My Childhood</summary> <p>stuff happened, I grew up</p> </div> </section>|False
+Which of the following returns the hostname and port of the current URL?|Location
+Which of the following are the advantages of using JavaScript for form validation?|All of the others
+width="100" and width="100%" is ?|Different
+Radio buttons let a user select ONE of a limited number of choice by_________attribute|type
+Which statement is wrong about headings in HTML document?|h6 defines the most important heading
+var t = newDate(2020.6.10) var y = t.getFullYear(); What is value of y variable?|2020
+Which statement is right about web browser?A All of the others|A web browser is a software application for retrieving, presenbng and traversing mformabon resources on the World Wide Web
+Select the property that is used to create spacing between HTML elements?|padding
+In CSS,Select the property used to set the spacing in between lines of text?|line-height
+For users that use the tab key to navigate websites, what property represents this way of moving from one element to another?|a:focus
+The four links states are|None of the others
+The four links states are  a:link, a:visited, a:hover, a:active |True
+How do you find out which character occurs at the 5th position in a string "How are you?"|charAt()
+When can you not trigger JavaScnpt from an event handler?|When JavaScript is disable
+The four links states are a:connect;a:visited;a:action; a:hover|False
+You can use property to change the list style to show roman numerals instead of normal numbers?|List-style-type: upper-roman:
+var pattern=/^[SE][0-9]{3}$/;Which string is right with above pattern?A E222|SE1
+What does this function do? function f(val) {Return val ? 1:2}|It returns 1 if val is thuth. otherwise 2
+HTML5 tags have the same semantic meaning, regardless of the browser being used.|True
+Unlike earlier versions of HTML, HTML5 produces pages that look the same across all browsers.|True
+FTP stands for|File Transfer Protocol
+HTTP stands for|Hyper Text Transfer Protocol
+Which of the following is part of a URL?|protocol
+Which of the following is part of a URL?|domain (or host)
+The Internet is a type of|Wide Area Network
+HTML5 is a cooperation between many parties. Which of the following is NOT part of that cooperation.|DARPA
+A basic functionality of browsers is to translate HTML documents into viewable webpages.|True
+A single web page may require several iterations of the Request-Response Cycle.|True
+Which version of HTML introduced semantic tags?|HTML 5
+Which version of HTML included browser specific features?|HTML 3.2
+The predecessor of the internet was|Arpanet
+URL stands for|Uniform Resource Locator
+Which of the following is an example of a top-level domain?|.com
+The Domain Name Service looks up the domain and returns the|IP address
+Which organization is responsible for assigning top-level domain names?|Internet Corporation for Assigned Numbers and Names (ICANN)
+The Request-Response Cycle...|may require several iterations of the Request-Response Cycle.
+HTML5 should not...|take advantage of the most up-to-date plugins.
+Which of the following best explains the difference between syntax and semantics.|A browser may have trouble displaying a page if the syntax is incorrect.
+What are proprietary tags?|Tags that work only on certain browsers
+Which of these tags breaks the tenet of the separation of content and layout?|font
+Which of the following are browsers?|Chrome, Firefox, Safari
+Which of the following is an example of a top-level domain?|.biz
+Which of the following is part of a URL?|domain (or host), protocol
+What is the Request/Response Cycle?|The process that happens when a client requests a page and a server responds with the appropriate files
+The original developers of HTML were opposed to the addition of tags for graphical images.|True
+Which of these tags breaks the tenet of the separation of content and layout?|br
+W3C stands for ________.|World Wide Web Consortium
+Which version of HTML introduced different document types?|HTML 4.01
+Semantics is|the practice of giving content on the page meaning and structure by using proper element
+Semantic code describes the ___ of content on a page, regardless of the style or appearance of that content.|value
+Using tags that have semantic meaning|increases accessibility and improve search engine optimization
+Using the header and footer tags can improve the search engine optimization for your page.|True
+Every well-formed HTML document should include:|doctype, head, body
+What is wrong with the following code? <a href = "picture.jpg">My dog</a> chews socks.|This code is semantically and syntactically correct.
+Block-level elements begin on a new line|True
+Inline-level elements begin on a new line|False
+A <div> block is an inline-level element|False
+A <span> block is an inline-level element|True
+Which tag represents a line break (new line)?|<br>
+Which of the following is the correct way to comment on HTML5?|<!-- HTML -->
+Which of the following are valid tags for HTML5 headings?|<h5>..</h5>
+Which set of element tags is used to create the highest level heading?|<h1>...</h1>
+All of the content you wish to appear on the screen should be in which tag?|<body>
+Which tag is used to create a link?|<a>
+Which of the following code is the correct way to link to an email address?|<a href= "shayhowe@awesome.com?subject=Hi&body=How%20are%20you">Email</a>
+Which of the following code is the correct way to link to an email address?|<a href= "mailto:shayhowe@awesome.com?subject=Hi&body=How%20are%20you">Email</a>
+Which HTML element is used to define list items?|<li>
+The start attribute defines the number from which an unordered list should start.|False
+Which code properly creates the nested list structure shown here? 1. Vegetables 2. Fruit ·Blueberries ·Bananas Notice that the blueberries and bananas are part of the fruit component.|False
+The <ul> and <ol> elements may contain only <li> elements.|True
+The tags to create definitions are:|<dl>, <dt>, <dd>
+What should target = "_blank" do when included in a link tag?|Opens the link in a new tab or window
+In order for the <img> element to work, a src attribute and value must be included to specify the source of the image.|True
+The alt text of an image should describe the appearance of an image|False
+When should an image have null (empty) alt text (alt - "")|When the image is decorative
+Which of the following is the best way to use a Font Awesome icon to link to Twitter?|<a href="https://twitter.com/" aria-label="Twitter"> <i class="fa fa-twitter"></i></a>
+What are the elements to help organize the data and structure of a table?|<caption>, <thead>, <tbody>, <tfoot>
+What does <thead> stand for?|Table header
+The reverse attribute allows a list to appear in a reverse order in an unordered list.|False
+Which attribute can be used to change its number within an ordered list?|value
+What is wrong with the following code? <a href = "http://www.umich.edu"></a>|This code is semantically and syntactically correct.
+Which HTML element will number items for you?|<ol>
+Which of the following is not an option for specifying a color in CSS3?|binary
+Which of the following is not an option for specifying a color in CSS3?|All of these options are valid.
+If your body tag uses the style attribute style="text-align:center", you can overwrite that property by using the CSS3 rule. body{ text-align: left; }|False
+What is wrong with the following code? body{ color: #000000; background-color:#FFFFFF font-family: Times, Arial, Cursive; }|There is a missing semicolon
+What is wrong with the following rule? body{ color: #000000; background-color:#FFFFFF; font-family: Times, Arial, Cursive; }|This is a valid rule
+Assume the following rule is the only one that styles the body element: body{ font-family: Cursive, Helvetica, Verdana; } What happens if the browser doesn't support Cursive or Helvetica?|The text will be displayed in Verdana  //The browser applies the first value that matches from left-to-right.
+The browser defaults override rules specified in an external style sheets.|False
+Using the code below, will the body of the page have the background-color defined in the file style.css or the background color define in the <style> tag? <head> <meta charset = "UTF-8"> <title>Test code</title> <link rel "stylesheet" href = "style.css"> <style> body{ background-color: #44CCDD; } </style> </head>|<style>
+Internal styling (rules specified in the <head> section) override rules specified with the style attribute in a tag.|False
+The default display value for paragraphs is:|block
+The default display value for <span> is:|inline
+A block element takes up the full width of it's parent, even if the content is smaller than the parent. So two block elements at the same will not be side-by-side.|True
+Inline elements take up the full width of the browser, even if the content is smaller than the browser size.|False
+Which of the following is the best way to convey that your text has special meaning?|Using semantic tags in addition to color and/or font.
+Every valid web page can be represented as a tree. This tree is referred to as the|DOM
+JavaScript uses what kind of interface to access the DOM structure?|an API  //This is an important term to know since there is a good chance you will want to use it later when searching the web for help with your code.
+Which of these is not valid? (Hint, pay attention to if the method should return one thing, or many things...)|document.getElementsById(idName)
+Which of the following is not a valid method for generating output to the screen?|print
+Which of these options does NOT require the use of parentheses?|innerHTML
+Which of the following does not generate output directly to the screen?|console.log(message);
+How does prompt differ from alert?|The prompt will return a value, alert does not.
+Variables allow you to save data.|True
+What does it mean that variables are case-sensitive?|That the computer does not think that the variables name and Name are the same thing.
+Which of the following is not a valid variable name?|1variable
+Which of the following is not a valid variable name?|variable-2
+What does mnemonic mean?|That variable names should help describe the value being stored.
+What is wrong with this code? var name = "Mike"; "Colleen" = name;|This code is illegal and it doesn't make sense to have a non-variable (also called a constant) in the left-hand side (LHS) of an assignment statement.
+What value is stored in name if the person hits the Okay button on a prompt before entering anything? var name = prompt("What is your name?");|an empty string ("")
+To create a String variable, use quotes around the value you want to save.|True
+Boolean variables store either true or false.|True
+When a function returns a node from the DOM, it is of type|Object
+A function that wants to return multiple values at once (such as document.getElementsByTagName) will return a/an|Array
+Which of the following is not a valid operator?|=+  //You see this sometimes as a typo. The proper format is +=, not =+.
+What is the difference between == and === ?|The == operator only checks for equivalent values, not equivalent type too.
+Which of the following is NOT a fluid measurement|px
+Responsive Web Design is...|Designing pages for multiple platforms by incorporating fluid measurements and varying CSS rules.
+Adaptive design with dynamic serving is....|Designing multiple pages, one for each type of major device (phone, tablet, laptop, and desktop)
+Which of the following is a true statement about using a separate "m." site for your content?|It is difficult to keep multiple versions of your site consistent. Any updates must be made in multiple places.
+The mobile version of your web page should have the same capabilities of every other version of your site.|True
+The mobile version of your web page should have the same layout of every other version of your site.|False
+The fluid measurement % can only be used on non-textual elements|False
+Responsive sites can have a mixture of fluid and absolute measurements.|True
+Which of the following statements best describes what pixels, ems, and rems have in common?|They are all units of measurement used to define the length of elements on a webpage.
+Which of the following measurements is relative to the size of its parent element?|em
+Consider the following CSS rules: div{ width: 80%; } @media all and (min-width: 500px){ div{ width: 25%; } } What is the width of any div elements on a 350px screen?|80%
+Consider the following CSS rules: div{ width: 80%; } @media all and (min-width: 500px){ div{ width: 25%; } } What is the width of any div elements on a 750px screen?|25%
+Consider the following CSS rules: @media all and (min-width: 500px){ div{ width: 25%; } } div{ width: 80%; } What is the width of any div elements on a 750px screen?|80%
+Consider the following CSS rule: div{ width: 80%; } @media print { div{ width: 25%; } } Which of the following is a true statement?|The div elements will have a width of 25% only when the page is printed
+Which of the following code segments will keep people from being able to zoom in or out on your content?|<meta name = 'viewport' content='width=device-width, initial-scale=1, maximum-scale = 1'>
+Which term is used to define the different viewport sizes that trigger media queries?|breakpoint
+Wireframes should...|specify the layout and content of your pages
+A key component of your wireframes should test|interaction
+Give an example screen width size for a mobile phone using pixels. (Just provide a number, and not the px!!!) -480 //most screens are at least 300px and less than 768px.|True
+Give an example screen width size for a mobile phone using pixels. (Just provide a number, and not the px!!!) -250 //most screens are at least 300px and less than 768px.|False
+Which of the following is a deprecated media type -- meaning they are omitted in later versions. (You will need to search for this online it is not in the notes. But a lot of what you do with web design will require a little searching!)|braille
+Breakpoints often correspond with common screen sizes for phones, tablets, and laptops.|True B. True
+True or False, Boostrap is mobile-first|True B. True
+The Bootstrap 3 grid system is based on how many columns? -12|True B. True
+True or False, the Bootstrap grid system works across multiple devices.|True B. True
+Which of the following bootstrap classes are used to create a justified tabs navigation? (Reminder, "justified" means that they grow/shrink to take up the full width of the screen.)|<ul class="nav nav-tabs nav-justified">
+Which of the following bootstrap classes are used to add a dropdown menu?|<ul class="dropdown-menu">
+Consider the following code using Bootstrap 3: <div class = "col-md-3 col-lg-7"> In an xs viewport the div will be _____ columns wide.|12
+Consider the following code using Bootstrap 3: <div class = "col-sm-6 col-lg-4"> In a sm viewport the div will be _____ columns wide.|6
+Consider the following code using Bootstrap 3: <div class = "col-sm-8 col-lg-4"> In a md viewport the div will be _____ columns wide.|8
+Consider the following code using Bootstrap 3: <div class = "col-lg-2 col-sm-5"> In a lg viewport the div will be _____ columns wide.|2
+Consider the following code using Bootstrap 3: <div class = "col-md-5 col-lg-2"> In a sm viewport the div will be _____ columns wide.|12
+Consider the following code using Bootstrap 3: <div class = "col-sm-7 col-lg-2"> In an xs viewport the div will be _____ columns wide.|12
+True or false, Bootstrap is a framework for back-end web development.|False
+True or false, Bootstrap is a framework for front-end web development.|True
+Bootstrap uses ...|HTML, CSS, and JavaScript
+Which of the following is a benefit of using the Bootstrap CDN?|You always are linked to the latest Bootstrap code.
+True or False, with Bootstrap you need to change your HTML code to utilize the Bootstrap classes.|True
+This may seem like an odd question, but I am going to ask you what the URL is for the Bootstrap 3 website. - getbootstrap.com|True
+If you are using an editor (not CodePen) you will need to reference Bootstrap resources where?|In the head element - with a link to the css - and again at the bottom of the body with a link to jQuery and JavaScript
+Designing multiple pages, one for each type of major device (phone, tablet, laptop, and desktop) is called|Adaptive Design
+Consider the following code where the font-size of a div is 32px, the font-size of a paragraph is .5em, and the font size of a span element is .5em. <div> <p> Here, there.. How big is the <span>font</span>? <p> </div> What is the font-size of the span element in px? (Looking for a numeric answer only, no measurements.)|8
+Consider the following CSS rules: div{ width: 25%; } @media all and (min-width: 500px){ div{ width: 50%; } } What is the width of any div elements on a 450px screen?|25%
+Which Bootstrap class will apply a striped look to a Bootstrap table?|.table-striped
+If you created a site with a Bootstrap drop-down menu and it is visible, but not functioning, the problem is probably with...|The link to the Bootstrap JavaScript code.
+Which of the following is a recommended way to incorporate Bootstrap into your code?|Use a link to the Content Delivery Network
+JavaScript code must be placed in the <head> section of the document.|False
+Which is the correct syntax to change the contents of the HTML element below? <p id = "quiz">This is a quiz. </p>|document.getElementById('quiz').innerHTML = "New content!";
+Where can you put JavaScript?|In the head and body section
+Which word is used to define a function in JavaScript?|function
+If a function is defined twice, the first declaration will be called when used.|False
+A function can be called multiple times in a single file.|True
+You can define a function without calling it.|True
+You can call a function without it being defined.|False
+Conditional statements change the flow of execution in a program — the "next" line of code in the program is not always the next one that is executed.|True
+Assume you have a page with four paragraph tags, one of which has the id "second". What is the proper JavaScript code to change the content of that paragraph to "What does the Fox say?" Note: The quotes shouldn't be part of the value. Please end the line of code with a semicolon. Note, you can't assume that this is the second paragraph.|document.getElementById("second").innerHTML = "What does the Fox say?";
+Assume you have a page with four paragraph tags. What is the proper JavaScript code to change the content of the second paragraph to "What does the Fox say?"|document.getElementsByTagName('p')[1].innerHTML = "What does the Fox say?"
+How do you properly access the third element in an array variable named "fruit"?|None of the above
+How do you properly access the first element in an array variable named "fruit"|fruit[0]
+Where can you put JavaScript?|In A), B) and C) above
+Which attribute is used to link to an external JavaScript file?|src; e.g., src = "extFile.js"
+Which of the following best defines the relationship between defining a function and calling a function?|A function can be called multiple times in a single file.
+Consider the following code: <body> <p> This is paragraph one </p> <p onclick = "Hello()"> This is paragraph two </p> </body> The function Hello() will be called every time:|The user clicks on the second paragraph on the page
+What is wrong with this function definition? function Hello();{ alert("Hello"); document.write("Hello on the screen"); }|The semicolon after Hello()
+Assume that this code is linked together correctly. p{ color: red; padding:10px 5px; background: black;} .fancy{ font-family: cursive; background: red; color: green;} .plain{ font-family: Times, serif; color: black;} <p>Hi</p> What color font is used to display "Hi"?|red
+This is probably a typo, why? .body{ margin: 10px;}|The period in front of the word body means the browser will look for a class called body, not the element.
+What is true about this code? <p class = "fancy box"> ....</p>|From this code, you can't know which styling will take precedence.
+The class selectors are part of the DOM |True B.False
+The id selectors are part of the DOM.|True B.False
+Descendant selectors nav a{ .... } are more specific than child selectors nav>a{ .... }|False
+Assume that this code is linked together correctly. p{ color: red; padding:10px 5px; background: black; } .fancy{ font-family: cursive; background: red; color: green; } .plain{ font-family: Times, serif; color: black; } <p class = "plain fancy">Hi</p> What color font is used to display "Hi"?|black
+Assume that this code is linked together correctly. p{ color: red; padding:10px 5px; background: black; } .fancy{ font-family: cursive; background: red; color: green; } .plain{ font-family: Times, serif; color: black; } <p class = "fancy plain">Hi</p> What color font is used to display "Hi"?|black
+In the following code snippet, what value is given for the left margin?margin: 5px 10px 3px 8px;|8px
+Which of the following is NOT a browser prefix?|edge
+Descendant selectors nav a{ .... } are more general than child selectors nav>a{ ... }|True B.False
+The default value for the position property is: |static
+What is wrong with this code? div{ position: static; left: 10px; }|The code works, but the left property is not necessary since static elements don't allow offsets
+Which of the following is the proper syntax for a pseudo-class?|selector:pseudo-class { property:value; }
+Which of the following rules styles the first paragraph in each div?|div p:first-child { color: blue; }
+Which CSS3 property allows you to change property values smoothly over a given duration?|transistion
+Sometimes elements overlap one another. Which property specifies the stacking order of the elements? (A high value means it is more likely to be place in front of another.) ONLY PROVIDE THE PROPERTY, NOT A VALUE.|z-side
+CSS1 was introduced for public use in|1996
+In HTML attributes, an input element should be disabled by|hidden
+In HTML attributes, an input element should be disabled by|disabled
+The first graphical browser was.... (please use one word answer)|Mosaic
+What does WAN stand for?|Wide area network
+HTML uses _________ to annotate documents. This is a way of marking up the content to identify specific HTML elements.|tags
+What does HTML stand for?|Hyper Text Markup Language
+A ________________________ is a computer that is in charge of handling resource requests from multiple computers.|server
+_____________ is used to create rules about the color, font, and layout of our pages|CSS
+Which code will properly insert headings along each row?|<table> <tr><th>Name</th><td>Colleen</td></tr> <tr><th>Age</th><td>26</td></tr> <tr><th>Team</th><td>Browns</td></tr> </table>
+Which CSS3 property is used to center text? (Provide on the property, not the value!)|text-align
+In JavaScript the keyword ___________ is used to declare a variable.|var
+What value is stored in name if the person hits the Cancel button on a prompt? var name = prompt("What is your name?");|null
+What value is returned by 9 % 5?|4
+Which fluid measurement type returns a percentage of the viewport width?|vw
+Which fluid measurement type returns a percentage of the viewport height?|vh
+If you have an element with the font size of 32px, and a child element inside with a a font-size set to 2em, what is the font size of the child in px? (Provide a number only, not the measurement too.)|64
+An _______ is the size of type as computed relative to the type size of the parent element.|em
+A _______ is the size of type as computed relative to the type size of the top level "html" element rather than a parent element.|rem
+Which measurement is easier and comfortable for the designer/developer to use when coding their CSS but does not provide the best experience for the user?|px
+1 _____ = 1% of viewport width|vw
+If you have an element with the font size of 18px, and a child element inside with a font-size set to .5em, what is the font size of the child in px? (Provide a number only, not the measurement too.)|
+If you have an element with the font size of 15px, and a child element inside with a font-size set to 3em, what is the font size of the child in px? (Provide a number only, not the measurement too.)|45
+A standard navigation pill is created with:|<ul class="nav nav-pills">
+Which of the following code segments will create two equal columns?|<div class="row"><div class="col-sm-6">.col-sm-4</div><div class="col-sm-6">.col-sm-4</div></div>
+What is the logical operator for AND?|&&
+Which of the following is NOT a fluid measurement|px
+Responsive Web Design is...|Designing pages for multiple platforms by incorporating fluid measurements and varying CSS rules.
+Adaptive design with dynamic serving is....|Designing multiple pages, one for each type of major device (phone, tablet, laptop, and desktop)
+Which of the following is a true statement about using a separate "m." site for your content?|It is difficult to keep multiple versions of your site consistent. Any updates must be made in multiple places.
+The mobile version of your web page should have the same capabilities of every other version of your site. ( T/F )|True
+The mobile version of your web page should have the same layout of every other version of your site. ( T/F )|False
+The fluid measurement % can only be used on non-textual elements ( T/F )|False
+Responsive sites can have a mixture of fluid and absolute measurements. ( T/F )|True
+Which of the following statements best describes what pixels, ems, and rems have in common?|They are all units of measurement used to define the length of elements on a webpage.
+Which of the following measurements is relative to the size of its parent element ?|em
+Consider the following CSS rules: div{ width: 80%; } @media all and (min-width: 500px){ div{ width: 25%; } } What is the width of any div elements on a 350px screen?|80%
+Consider the following CSS rules: div{ width: 80%; } @media all and (min-width: 500px){ div{ width: 25%; } } What is the width of any div elements on a 750px screen?|25%
+Consider the following CSS rules: @media all and (min-width: 500px){ div{ width: 25%; } } div{  width: 80%; } What is the width of any div elements on a 750px screen?|80%
+Consider the following CSS rule: div{ width: 80%; } @media print { div{ width: 25%; } } Which of the following is a true statement?|The div elements will have a width of 25% only when the page is printed
+Which of the following code segments will keep people from being able to zoom in or out on your content?|<meta name = 'viewport' content='width=device-width, initial-scale=1, maximum-scale = 1'>
+Which term is used to define the different viewport sizes that trigger media queries?|breakpoint
+Wireframes should...|specify the layout and content of your pages
+A key component of your wireframes should test|interaction
+Which of the following is a deprecated media type -- meaning they are omitted in later versions. (You will need to search for this online it is not in the notes. But a lot of what you do with web design will require a little searching!)|braille
+True or False, Boostrap is mobile-first|True
+A standard navigation pill is created with:|<ul class="nav nav-pills">
+True or False, the Bootstrap grid system works across multiple devices.|True
+Which of the following bootstrap classes are used to create a justified tabs navigation? (Reminder, "justified" means that they grow/shrink to take up the full width of the screen.)|<ul class="nav nav-tabs nav-justified">
+Which of the following bootstrap classes are used to add a dropdown menu?|<ul class="dropdown-menu">
+True or false, Bootstrap is a framework for back-end web development.|False
+True or false, Bootstrap is a framework for front-end web development.|True
+Bootstrap uses ...|HTML, CSS, and JavaScript
+Which of the following is a benefit of using the Bootstrap CDN?|You always are linked to the latest Bootstrap code.
+True or False, with Bootstrap you need to change your HTML code to utilize the Bootstrap classes.|True
+If you are using an editor (not CodePen) you will need to reference Bootstrap resources where?|In the head element - with a link to the css - and again at the bottom of the body with a link to jQuery and JavaScript
+Which of the following is NOT a fluid measurement|px
+Designing multiple pages, one for each type of major device (phone, tablet, laptop, and desktop) is called|Adaptive Design
+Consider the following CSS rules: div{ width: 25%; } @media all and (min-width: 500px){ div{ width: 50%; } } What is the width of any div elements on a 450px screen?|25%
+If you created a site with a Bootstrap drop-down menu and it is visible, but not functioning, the problem is probably with...|The link to the Bootstrap JavaScript code.
+Which of the following is a recommended way to incorporate Bootstrap into your code?|Use a link to the Content Delivery Network
+Which of the following code segments will create two equal columns?|<div class="row">  <div class="col-sm-6">.col-sm-4</div>  <div class="col-sm-6">.col-sm-4</div> </div>
+Every valid web page can be represented as a tree. This tree is referred to as the|DOM
+JavaScript uses what kind of interface to access the DOM structure?|an API
+Which of these is not valid? (Hint, pay attention to if the method should return one thing, or many things...)|document.getElementsById(idName)
+Which of the following is not a valid method for generating output to the screen?|print
+Which of these options does NOT require the use of parentheses?|innerHTML
+Which of the following does not generate output directly to the screen?|console.log(message);
+How does prompt differ from alert?|The prompt will return a value, alert does not.
+Variables allow you to save data. ( T/F )|True
+What does it mean that variables are case-sensitive?|That the computer does not think that the variables name and Name are the same thing.
+Which of the following is not a valid variable name?|1variable
+Which of the following is not a valid variable name?|variable-2
+What does mnemonic mean?|That variable names should help describe the value being stored.
+What is wrong with this code? var name = "Mike"; "Colleen" = name;|This code is illegal and it doesn't make sense to have a non-variable ( also called a constant) in the left-hand side (LHS) of an assignment statement
+What value is stored in name if the person hits the Okay button on a prompt before entering anything? var name = prompt("What is your name?");|an empty string("")
+To create a String variable, use quotes around the value you want to save. ( T/F )|True
+Boolean variables store either true or false. ( T/ F)|True
+When a function returns a node from the DOM, it is of type|Object
+A function that wants to return multiple values at once (such as document.getElementsByTagName) will return a/an|Array
+Which of the following is not a valid operator?|=+
+What is the difference between == and === ?|The == operator only checks for equivalent values, not equivalent type too.
+JavaScript code must be placed in the <head> section of the document. ( T/F )|False
+Which tag is used to let the browser know that it is about to see JavaScript code?|script
+Which is the correct syntax to change the contents of the HTML element below? <p id = "quiz">This is a quiz. </p>|document.getElementById('quiz').innerHTML ="New content!!";
+Where can you put JavaScript?|In A), B) and C) above
+Which attribute is used to link to an external JavaScript file?|src; e.g., src = "extFile.js"
+Which word is used to define a function in JavaScript?|function
+Which of the following best defines the relationship between defining a function and calling a function?|A function can be called multiple times in a single file.
+Consider the following code: <body> <p> This is paragraph one </p> <p onclick = "Hello()"> This is paragraph two </p> </body> The function Hello() will be called every time:|The user clicks on the second paragraph on the page
+What is wrong with this function definition? function Hello();{ alert("Hello"); document.write("Hello on the screen"); }|The semicolon after Hello()
+Which is the correct syntax to change the contents of the HTML element below? <p id = "quiz">This is a quiz. </p>| document.getElementById('quiz').innerHTML = "New content!";
+Where can you put JavaScript?|In the head and body section
+Built-in JavaScript functions (alert, prompt, etc) cannot be mixed in with other HTML code unless you use the script tag.|False
+Which word is used to define a function in JavaScript?|function
+If a function is defined twice, the first declaration will be called when used. ( T/F )|False
+A function can be called multiple times in a single file.(T/F)|True
+You can define a function without calling it. (T/F)|True
+You can call a function without it being defined. ( T/F )|False
+Conditional statements change the flow of execution in a program — the "next" line of code in the program is not always the next one that is executed. (T/F)|True
+Assume you have a page with four paragraph tags. What is the proper JavaScript code to change the content of the second paragraph to "What does the Fox say?"|document.getElementsByTagName('p')[1].innerHTML = "What does the Fox say?"
+How do you properly access the first element in an array variable named "fruit"|fruit[0]
+Which of the following is not an option for specifying a color in CSS3?|binary
+If your body tag uses the style attribute style="text-align:center", you can overwrite that property by using the CSS3 rule. ( T/F ) body{ text-align: left; }|False
+What is wrong with the following rule? body{ color: #000000; background-color:#FFFFFF; font-family: Times, Arial, Cursive; }|This is a valid rule
+Assume the following rule is the only one that styles the body element: body{ font-family: Cursive, Helvetica, Verdana; } What happens if the browser doesn't support any of these font families?|The text will be displayed in the default browser font-family
+The browser defaults override rules specified in an external style sheets. ( T/F )|False
+Using the code below, will the body of the page have the background-color defined in the file style.css or the background color define in the <style> tag? <head> <meta charset = "UTF-8"> <title>Test code</title> <link rel "stylesheet" href = "style.css"> <style> body{ background-color: #44CCDD; } </style> </head>|<style>
+Internal styling (rules specified in the <head> section) override rules specified with the style attribute in a tag. ( T/F )|False
+The default display value for <a> element is:|inline
+The default display value for <span> is:|inline
+A block element takes up the full width of it's parent, even if the content is smaller than the parent. So two block elements at the same will not be side-by-side. ( T/F )|True
+Inline elements take up the full width of the browser, even if the content is smaller than the browser size. ( T/ F)|False
+Which of the following is the best way to convey that your text has special meaning?|Using semantic tags in addition to color and/or font.
+The margin is the space between elements. (T/F)|True
+Padding is...|The space between an element and its border
+The padding and margin properties can be styled with unique colors. (T/F)|False
+The property/value pair  list-style-type:upper-roman; is best used to visually alter:|ordered lists
+Descendant selectors nav a{ .... } are more specific than child selectors nav>a{ .... } ( T/F )|False
+The id selectors are part of the DOM.(T/F)|True
+The class selectors are part of the DOM ( T/F )|True
+What is true about this code? <p class = "fancy box"> ....</p>|From this code, you can't know which styling will take precedence.
+This is probably a typo, why? .body{ margin: 10px; }|The period in front of the word body means the browser will look for a class called body, not the element.
+Assume that this code is linked together correctly. p{ color: red; padding:10px 5px; background: black; } .fancy{ font-family: cursive; background: red; color: green; } .plain{ font-family: Times, serif; color: black; }  <p>Hi</p> What color font is used to display "Hi"?|red
+Assume that this code is linked together correctly. p{ color: red; padding:10px 5px; background: black; } .fancy{ font-family: cursive; background: red; color: green; } .plain{ font-family: Times, serif; color: black; }  <p class = "plain fancy">Hi</p> What color font is used to display "Hi"?|black
+Assume that this code is linked together correctly. p{ color: red; padding:10px 5px; background: black; } .fancy{ font-family: cursive; background: red; color: green; } .plain{ font-family: Times, serif; color: black; }  <p class = "fancy plain">Hi</p> What color font is used to display "Hi"?|black
+What is the correct HTML for referring to an external style sheet?|<link rel="stylesheet" href="mystyle.css">
+What is the correct HTML for referring to an external style sheet stored in a subfolder called css?|<link rel="stylesheet" href="css/mystyle.css"> 
+The link to the external style sheet should be in the:|<head>
+Which CSS property controls the text size?|font-size
+How do you display hyperlinks without an underline?|a { text-decoration:none; }
+In the following code snippet, what value is given for the left margin? margin: 5px 10px 3px 8px;|8px
+The # symbol specifies that the selector is a/an|id
+Which of the following would be used to create class called button which has a width of 750px, a height of 30px and the color of the text is black?|.button { height: 30px; width: 750px; color: black; }
+Which snippet of CSS is commonly used to center an element horizontally?|margin: 0 auto;
+A default style sheet is used to:|Eliminate differences in browser default styling
+Which of the following is NOT a browser prefix?|edge
+Descendant selectors nav a{ .... } are more general than child selectors nav>a{ .... } (T/F)|True
+Using only a default style sheet..|will typically make your page look worse
+The default value for the position property is:|static
+What is wrong with this code? div{ position: static; left: 10px; }|The code works, but the left property is not necessary since static elements don't allow offsets
+If you want your navigation bar to remain visible, even when the user scrolls downward, you should use which type of positioning?|fixed
+Which of the following is the proper syntax for a pseudo-class?|selector:pseudo-class {   property:value; }
+Which of the following rules styles the first paragraph in each div?|div p:first-child {   color: blue; } 
+Which CSS3 property allows you to change property values smoothly over a given duration?|transistion
+Which rule will change the text color of p elements with the class "highlight" when hovered over?|.highlight:hover{   color:green; }
+What are the four principles of Accessibility?|POUR
+What is wrong with this code? div{ position: relative; left: 10px; }|There is nothing wrong with this code
+Unlike earlier versions of HTML, HTML5 produces pages that look the same across all browsers. ( T/F)|False
+Which of the following is part of a URL?|protocol
+The Internet is a type of|Wide Area Network
+What is the Request/Response Cycle?|The process that happens when a client requests a page and a server responds with the appropriate files
+The Domain Name Service looks up the domain and returns the|IP address
+Which organization is responsible for assigning top-level domain names?|Internet Corporation for Assigned Number and Names ( ICANN)
+The Request-Response Cycle...|may require several iterations of the Request - Response Cycle
+Which is the correct file extension for a web page?|.html
+The original developers of HTML were opposed to the addition of tags for graphical images. ( T/F )|True
+What are proprietary tags?|Tags that work only on certain browsers
+Which of these tags breaks the tenet of the separation of content and layout?|br
+Which of the following are browsers?|Chrome , Firefox , Safari
+A basic functionality of browsers is to translate HTML documents into viewable webpages. ( T/F)|True
+Which version of HTML introduced semantic tags?|HTML 2.0
+The predecessor of the internet was|Arpanet
+Which of the following is an example of a top-level domain?|.biz
+Semantics is|the practice of giving content on the page meaning and structure by using proper element
+Semantic code describes the ___ of content on a page, regardless of the style or appearance of that content.|value
+Using tags that have semantic meaning|increases accessibility and improve search engine optimization
+Every well-formed HTML document should include:|doctype, head, body
+What is wrong with the following code? <a href = "http://www.umich.edu"></a>|This link doesn't provide any way to click on the link.
+Block-level elements begin on a new line (T/F)|True
+Inline-level elements begin on a new line (T/F)|False
+A <div> block is an inline-level element ( T/F )|False
+A <span> block is an inline-level element (T/F)|True
+Which tag represents a line break (new line)?|<br>
+Which of the following is the correct way to comment on HTML5?|<!--HTML-->
+Which of the following are valid tags for HTML5 headings?|<h5>...</h5>
+All of the content you wish to appear on the screen should be in which tag?|<body>
+Which tag is used to create a link?|<a>
+Which of the following code is the correct way to link to an email address?|<a href= "shayhowe@awesome.com?subject=Hi&body=How%20are%20you">Email</a>
+Which HTML element will number items for you?|<ol>
+The start attribute defines the number from which an unordered list should start. ( T/F )|False
+The reverse attribute allows a list to appear in a reverse order in an unordered list. ( T/F )|False
+Which attribute can be used to change its number within an ordered list?|value
+The <ul> and <o> elements may contain only <li> elements. ( T/F )|True
+The tags to create definitions are;|<dl>, <dt>, <dd>
+What should target = "_blank" do when included in a link tag?|Opens the link in a new tab or window
+In order for the <img> element to work, a src attribute and value must be included to specify the source of the image. ( T/F )|True
+The alt text of an image should describe the appearance of an image ( T/F )|False
+When should an image have null (empty) alt text (alt - "")|When the image is decorative
+What are the elements to help organize the data and structure of a table?|<caption>, <thead>, <tbody>, <tfoot>
+What does <thead> stand for?|Table head
+Which code will properly insert headings along each row?|<table>  <tr><th>Name</th><td>Colleen</td></tr>  <tr><th>Age</th><td>26</td></tr>  <tr><th>Team</th><td>Browns</td></tr> </table>
+What validation error will this code produce? <!DOCTYPE html> <html lang="en"> <head>  <meta charset="UTF-8"> <title>Testing</title> </head> <body> <p>  <h2>Validate me!</h2>  </p> </body> </html>|No p element in scope but a p end tag seen
+What validation error will this code produce? <!DOCTYPE html> <html lang="en"> <head></head> <body>  <p> Validate me! </p> </body> </html>|Element head is missing a required instance of child element title
+To access your cPanel account, you need ...|a username and password from your hosting server
+To publish your site online you need|a domain name and hosting service
+To use ftp software to transfer files you will typically need to know your site's ftp address or ip address. ( T/F )|True
+Which is the best/proper way to declare that your page uses the HTML5 protocol?|<!DOCTYPE html>
+Which is the best/proper way to declare that the language for your page is English?|<html lang="en">
+Which is the best/proper way to declare a section that has an h2 heading and three progress elements?|False
+What is the best/proper way to declare a section that has an h2 heading and uses a detail tag? A.<section> <h2>More about me</h2> <details open> <h2>My Childhood</h2> <p>stuff happened, I grew up</p> </details> </section> B.<section> <h2>More about me</h2> <details open> <summary>My Childhood</summary> <p>stuff happened, I grew up</p> </details> </section> C.<section> <h2>More about me</h2> <details> <summary>My Childhood</summary> <p>stuff happened, I grew up</p> </div> </section>|False
+The first graphical browser was.... (please use one word answer)|mosaic
+What does LAN stand for?|local-areanetwork
+What does WAN stand for?|wideareanetwork
+HTML uses _________ to annotate documents. This is|tags
+What does HTML stand for?|hypertextmarkuplanguage
+ ________________________ is|server
+_____________ is used to create rules about the color, font, and layout of our pages|css
+Which CSS3 property is used to center text? (Provide on the property, not the value!)|text-align
+ JavaScript the keyword ___________ is used to declare|var
+What value is stored in name if the person hits the Cancel button on|null
+ _______ is the size of type as computed relative to the type size of the top level "html" element rather than|rem
+A ________________________ is|server
+In order for the <img> element to work,|src attribute and value must be included to specify the source of the image.
+If your body tag uses the style attribute style="text-align:center", you can overwrite that property by using the CSS3 rule. body{ text-align: left; }|False //The style attribute has
+In JavaScript the keyword ___________ is used to declare|var
+To create|String variable, use quotes around the value you want to save.
+A _______ is the size of type as computed relative to the type size of the top level "html" element rather than|rem
+If you are using an editor (not CodePen) you will need to reference Bootstrap resources where?|link to jQuery and JavaScript
+If you created|The link to the Bootstrap HTML code.
+A function can be called multiple times in|single file.
+A function can be called multiple times in|True
+Assume that this code is linked together correctly. p{ color: red; padding:10px 5px; background: black; } .fancy{ font-family: cursive; background: red; color: green; } .plain{ font-family: Times, serif; color: black; } <p>Hi</p> What color font is used to display "Hi"?|red
+Assume you have|document.getelementbyid('second').innerhtml="whatdoesthefoxsay?";
+Block-level elements begin on|True
+Conditional statements change the flow of execution in|True
+Consider the following CSS rule: div{ width: 80%; } @media print { div{ width: 25%; } } Which of the following is|The div elements will have
+Consider the following CSS rules: div{ width: 25%; } @media all and (min-width: 500px){ div{ width: 50%; } } What is the width of any div elements on|450px screen?
+Consider the following CSS rules: @media all and (min-width: 500px){ div{ width: 25%; } } div{  width: 80%; } What is the width of any div elements on|25%
+Consider the following CSS rules: div{ width: 80%; } @media all and (min-width: 500px){ div{ width: 25%; } } What is the width of any div elements on|25%
+CSS stands for|cascadingstylesheets
+Every valid web page can be represented as|API
+Give an example screen width size for|320(300<x<768)
+How does prompt differ from alert?|Only prompt uses parentheses.
+How much width will this div occupy? div{ width:100px; padding: 10px; margin: 5px; border: 2px; }|134
+If|False
+If you are using an editor (not CodePen) you will need to reference Bootstrap resources where?|In the body section - with
+In order for the <img> element to work,|True
+Inline-level elements begin on|False
+Internal styling (rules specified in the <head> section) override rules specified with the style attribute in|False
+Responsive sites can have|True
+Sometimes elements overlap one another. Which property specifies the stacking order of the elements? (A high value means it is more likely to be place in front of another.) ONLY PROVIDE THE PROPERTY, NOT|z-index
+The property/value pair list-style-type:upper-roman; is best used to visually alter:|ordered lists
+The reverse attribute allows|False
+The style tag and the style attribute are interchangeable -- this means that you accomplish the same effect with both.|False
+This is probably|typo, why? .body{  margin: 10px; }
+To create|True
+True or false, Bootstrap is|False
+URL stands for|uniformresourcelocator
+Using only|default style sheet..
+W3C stands for:|worldwidewebconsortium
+What does FTP stand for?|filetransferprotocol
+What does HTTP stand for?|hypertexttransferprotocol
+What does LAN stand for?|localareanetwork
+What is the best/proper way to declare|detail tag? A.<section>  <h2>More about me</h2>  <details open>  <h2>My Childhood</h2>  <p>stuff happened, I grew up</p>  </details> </section> B.<section>  <h2>More about me</h2>  <details open>  <summary>My Childhood</summary>  <p>stuff happened, I grew up</p>  </details> </section> C.<section>  <h2>More about me</h2>  <details>  <summary>My Childhood</summary>  <p>stuff happened, I grew up</p>  </div> </section>
+What is the correct HTML for referring to an external style sheet stored in|<link rel="css/stylesheet" href="css/mystyle.css"> 
+What is the Request/Response Cycle?|page and
+What is wrong with this code? var name = "Mike"; "Colleen" = name;|variable 
+When|node from the DOM, it is of type
+Which Bootstrap class will apply|table-striped
+Which is the best/proper way to declare|<section>  <h2>Favorite Foods</h2> </section> <ul>  <li>stuff</li>  <li>more</li>  <li>stuff</li>  <li>again</li>  </ul> C.<section>  <h2>Favorite Foods</h2>  <ul>  <li>stuff</li>  <li>more</li>  <li>stuff</li>  <li>again</li>  </ul> </section> D.<section>  <h2>Favorite Foods</h2>  <ol>  <li>stuff</li>  <li>more</li>  <li>stuff</li>  <li>again</li>  </ol> </section>
+Which is the best/proper way to declare|<section>  <h2>Achievements</h2>  <p>Progress in this course (100%)<progress>100%</progress><br/>  Progress in the Specialization capstone (20%)<progress>20%</progress><br/>  Progress in life goals (70%)<progress>70%</progress></p> </section> B.<section>  <h2>Achievements</h2>  <p>Progress in this course (100%)<progress value="1"></progress><br/>  Progress in the Specialization capstone (20%)<progress value="20" max="100"></progress><br/>  Progress in life goals (70%)<progress value="70" max="100"></progress></p> </section> C.<section>  Achievements  <p>Progress in this course (100%)<progress>100%</progress><br/>  Progress in the Specialization capstone (20%)<progress>20%</progress><br/>  Progress in life goals (70%)<progress>70%</progress></p> </section> D.<section>  <h2>Achievements</h2>  <p>Progress in this course (100%)<progress value="1"></progress>  Progress in the Specialization capstone (20%)<progress value="20" max="100"></progress>  Progress in life goals (70%)<progress value="70" max="100"></progress></p> </section>
+Which is the best/proper way to declare the header for|<header>  <h1>Mister Rogers</h1>  <nav>  <a href="one.html">one</a>  <a href="two.two.html">two</a>  <a href="three.html">three</a>  <a href="songs.html">Songs</a>  </nav> </header> D.<head>  <h1>Mister Rogers</h1>  <nav>  <a href="one.html">one</a>  <a href="two.two.html">two</a>  <a href="three.html">three</a>  <a href="songs.html">Songs</a>  </nav> </head>
+Which is the correct file extension for|.doc
+Which is the correct syntax to change the contents of the HTML element below? <p id = "quiz">This is|document.getElementsByTagName('p').innerHTML("New content!");
+Which of the following bootstrap classes are used to create|<ul class="nav nav-tabs nav-stacked">
+Which of the following is NOT|%
+Which of the following is not|document.write
+Which of the following is not|++
+Which of the following is not|variable1
+Which of the following is not an option for specifying|hexadecimal
+Which of the following is the best way to convey that your text has special meaning?|larger font size to signify the important text
+Which of the following is the proper syntax for|:pseudo-class {   property:value; }
+Which of the following would be used to create class called button which has|height of 30px and the color of the text is black?
+Which property can remove the underline from links? (Only provide the property name; do not give it|text-decoration
+Which rule will change the text color of p elements with the class "highlight" when hovered over?|p.highlight:hover{   color:green; }
+Which tag is used to create|<link>
+Which tag represents|line break (new line)?
+Which word is used to define|func
+Which word is used to define|function in JavaScript?
+You can call|False
+You can define|True
+HTML5 tags have the same semantic meaning, regardless of the browser being used. (T/F)|True
+FTP stands for:|File Transfer Protocol
+The Internet is|Hypertext Network
+A single web page may require several iterations of the Request-Response Cycle. (T/F)|True
+Which is the correct file extension for|.txt
+The original web was developed|way to display graphical images.
+Which of the following are browsers?|Safari, Chrome, Internet Explorer
+W3C stands for|World Wide Web Consortium
+A basic functionality of browsers is to translate HTML documents into viewable webpages. (T/F)|True
+Which version of HTML included browser specific features?|HTML 5
+CSS stands for|Cascading Style Sheet
+What is wrong with the following code? <a href="http://www.umich.edu"></a>|This link doesn't provide any way to click on the link.
+A <div> block is an inline-level element (T/F)|False
+Which tag represents|<lb>
+The start attribute defines the number from which an unordered list should start. (T/F)|False
+The <ul> and <o> elements may contain only <li> elements. (T/F)|True
+The alt text of an image should describe the appearance of an image. (T/F)|False
+What validation error will this code produce? <!DOCTYPE html> <html lang="en"> <head> <meta charset="UTF-8"> <title>Testing</title> </head> <body> <p> <h2>Validate me!</h2> </p> </body> </html>|No p element in scope but
+What validation error will this code produce? <!DOCTYPE html> <html lang="en"> <head></head> <body> <p> Validate me! </p> </body> </html>|Element head is missing
+To use ftp software to transfer files you will typically need to know your site's ftp address or ip address. (T/F)|True
+Which of the following is not an option for specifying|rgb
+If your body tag uses the style attribute style="text-align:center", you can overwrite that property by using the CSS3 rule. body { text-align: left; } (T/F)|False
+What is wrong with the following rule? body { color: #000000 ;  background-color: #FFFFFF; font-family: Times, Arial, Cursivel; }|This is
+Assume the following rule is the only one that styles the body element: body { font-family: Cursivel, Helvetica, Verdana ; } What happens if the browser doesn't support any of these font families?|The text will be displayed in the default browser font-family
+The browser defaults override rules specified in an external style sheets. (T/F)|False
+Using the code below, will the body of the page have the background-color defined in the file style.css or the background color define in the <style> tag? <head> <meta charset="UTF-8"> <title> Test code </title> <link rel="stylesheet" href="style.css"> <style> body{ background-color: #44CCDD } </style> </head>|<style>
+A block element takes up the full width of it's parent, even if the content is smaller than the parent. So two block elements at the same will not be side-by-side. (T/F)|True
+Inline elements take up the full width of the browser, even if the content is smaller than the browser size. (T/F)|False
+Which CSS3 property is used to center text? (Only provide the property name; do not give it|value.)
+Assume that this code is linked together correctly p{ color: red; padding:10px 5px; background: black; } .fancy{ font-family: cursive; background: red; color: green; } .plain{ font-family: Times, serif; color: black; } <p>Hi</p> What color font is used to display "Hi"?|red
+Assume that this code is linked together correctly p{ color: red; padding:10px 5px; background: black; } .fancy{ font-family: cursive; background: red; color: green; } .plain{ font-family: Times, serif; color: black; } <p class = "plain fancy">Hi</p> What color font is used to display "Hi"?|black
+Assume that this code is linked together correctly. p{ color: red; padding:10px 5px; background: black; } .fancy{ font-family: cursive; background: red;color: green; } .plain{ font-family: Times, serif; color: black; } <p class = "fancy plain ">Hi</p> What color font is used to display "Hi"?|black
+What is the correct HTML for referring to an external style sheet stored in|subfolder called css?
+The link to the external style sheet should be in the:|Meta-data - <head>
+How do you display hyperlinks without an underline?|a {  text-decoration:none;  }
+In the following code snippet, what value is given for the right margin? margin: 5px 10px 3px 8px;|10px
+Which of the following would be used to create class called button which has|#button {   height: 30px;   width: 750px;  text: black;  }
+Which snippet of CSS is commonly used to center an element horizontally?|margin: auto 0;
+Which of the following is not|moz
+How much width will this div occupy? div{ width:100px; padding: 10px; margin: 5px; border: 2px; }|134px
+The style tag and the style attribute are interchangeable -- this means that you accomplish the same effect with both. (T/F)|False
+A default style sheet is used to:|Eliminate differences in browser default styling.
+A default style sheet is used to:Eliminate differences in browser default styling.Insert the prefixes needed to support different browsers.|static
+What is wrong with this code? div{ position: static;left: 10px; }|The code works, but the left property is not necessary since static elements don't allow offsets
+Which of the following is the proper syntax for|selector::pseudo-class { property:value; }
+Which rule will change the text color of p elements with the class "highlight" when hovered over?|p.highlight:hover{ color:green; }
+What is wrong with this code? div{ position: relative;left: 10px; }|The code works, but the left property is not necessary since relative elements don't allow offsets
+Every valid web page can be represented as|JavaScript
+Variables allow you to save data. (T/F)|True
+Which of the following is not|variableOne
+What is wrong with this code? var name="Mike"; "Collean"=name;|variable.
+Boolean variables store either true or false. (T/F)|True
+What value is returned by 17 % 5?|2
+What is the logical operator for OR?|||
+Which is the correct syntax to change the contents of the HTML element below? <p id = "quiz">This is|document.getElementById('quiz').innerHTML("New content!");
+Which keyword is used to define|function
+Assume you have|document.getElementById('p')[2].innerHTML = "What does the Fox say?"
+The mobile version of your web page should have the same capabilities of every other version of your site. (T/F)|True
+he mobile version of your web page should have the same layout of every other version of your site. (T/F)|False
+Which fluid measurement type returns|vh
+Which fluid measurement type returns|percentage of the viewport height?
+The fluid measurement % can only be used on non-textual elements (T/F)|False
+If you have an element with the font size of 24px, and|24px
+A _______ is the size of type as computed relative to the type size of the top level "html" element rather than|em
+Consider the following CSS rules: div{ width: 80%; } @media all and (min-width: 500px){ div{ width: 25%; } } What is the width of any div elements on|100%
+Consider the following CSS rules: @media all and (min-width: 500px){ div{ width: 25%; } } div{ width: 80%; } What is the width of any div elements on|25%
+Breakpoints often correspond with common screen sizes for phones, tablets, and laptops. (T/F)|True
+True or False, Boostrap is mobile-first (T/F)|True
+The Bootstrap 3 grid system is based on how many columns?|12
+Which of the following bootstrap classes are used to create|justified tabs navigation? (Reminder, "justified" means that they grow/shrink to take up the full width of the screen.)
+hich of the following bootstrap classes are used to add|dropdown menu?
+Consider the following code using Bootstrap 3: <div class = "col-sm-2 col-lg-4"> In an xs viewport the div will be _____ columns wide.|12
+Consider the following code using Bootstrap 3: <div class = "col-md-5 col-lg-2"> In|10
+onsider the following code using Bootstrap 3: 1 <div class = "col-sm-8 col-lg-4"> In|2
+Consider the following code using Bootstrap 3: 1 <div class = "col-md-4 col-sm-10 "> In|lg viewport the div will be _____ columns wide.
+Which of the following is NOT|em
+Which fluid measurement type returns|em
+Consider the following code where the font-size of|paragraph is .5em, and the font size of
+The Bootstrap 3 grid system is based on how many columns?|12
+Which Bootstrap class will apply|Bootstrap table?
+If you created|site with
+Consider the following code using Bootstrap 3: 1 <div class = "col-sm-7 col-lg-2"> In an xs viewport the div will be _____ columns wide.|12
+Which of the following code segments will create two equal columns?|<div class="row"> <div class="col-sm-6">.col-sm-4</div> <div class="col-sm-6">.col-sm-4</div> </div>
+The style tag and the style attribute are interchangeable -- this means that you accomplish the same effect with both.|false
+HTML uses _________ to annotate documents. This is|correspondingtag
+Give an example screen width size for|500
+If you want your text to be displayed in a larger font size, you can put it in a heading tag (<h1>, <h2>, etc.) Why is this a bad idea?  You can only use the headings once in a page, so you can't always make everything large by using the tag.  The headings are semantic -- they have special meaning. When you use a heading you are implying that the text has extra importance. If you just want larger font, you will need to learn how to use styling instead.   The heading tags don't affect the size of the font.|The headings are semantic -- they have special meaning. When you use a heading you are implying that the text has extra importance. If you just want larger font, you will need to learn how to use styling instead
+The "alt" attribute is only used by screen readers  True  False|false (The alt text is so important. It will display when you accidentally link to a bad file (going to happen a lot) AND it will help your search engine optimization)
+Using the <header> tag will place prominent information on the top of your page.  True  False|false (The semantic tags (footer, header, nav, etc). do not affect the placement of your elements. Instead they provide some context to users who may be accessing your page through non-visual means)
+Why might you want to avoid hardcoding the width or height of your picture to a certain pixel size?  While the size might look good on one screen size, it may be too big or too small for other screen sizes.  Hardcoding the values will always skew/stretch your picture|While the size might look good on one screen size, it may be too big or too small for other screen sizes.
+Which element holds the link to include a favicon - the tiny image that appears in your browser title tab?   <head>  <favicon>  <img>  <title>|<head>
+The term "harding a value" means...  The value will always be the same, all the time.  The value can change as the screen is resized  The computer determines the best value to use at any given time.|The value will always be the same, all the time.
+The code for putting in a link to a favicon goes in which tag?  head  title  favicon|head
+Using the header and footer tags can improve the search engine optimization for your page. True False|true
+Every well-formed HTML document should include:  doctype, head, body  doctype, header, body  header, nav, footer  alt text|doctype, head, body
+Block-level elements begin on a new line  True  False|true
+Inline-level elements begin on a new line  True  False|false
+A <div> block is an inline-level element  True  False|false
+A <span> block is an inline-level element  True  False|true
+Which tag represents a line break (new line)?  <break>  <br>  <line>  <lb>|<br>
+Which of the following is the correct way to comment on HTML5?  <?-- HTML -->  <#-- HTML -->  <!-- HTML -->  <$-- HTML -->|<!-- HTML -->
+Which of the following are valid tags for HTML5 headings?  <h9>..</h9>  <heading>..</heading>  <h5>..</h5>  <h7>..</h7>|<h5>..</h5>
+All of the content you wish to appear on the screen should be in which tag?  <html>  <body>  <content>  <main>|<body>
+Which tag is used to create a link?  <anchor>  <a>  <link>  <hyper>|<a>
+The <ul> and <o> elements may contain only <li> elements.  True  False|true
+The tags to create definitions are:  <dl>, <dt>, <dd>  <def>, <dt>, <li>  <def>, <dt>, <dd>  <dl>, <term>, <def>|<dl>, <dt>, <dd>
+What should target = "_blank" do when included in a link tag?  Opens the link in a new tab or window  Opens the link in a in a tab called "_blank"  This is not a valid expression.|Opens the link in a new tab or window
+In order for the <img> element to work, a src attribute and value must be included to specify the source of the image.  True  False|true
+The alt text of an image should describe the appearance of an image  True  False|false
+What are the elements to help organize the data and structure of a table?  <caption>, <head>, <body>, <foot>  <caption>, <thead>, <tbody>, <foot>  <caption>, <thead>, <tbody>, <tfoot>  <caption>, <thead>, <body>, <foot>|<caption>, <thead>, <tbody>, <tfoot>
+What does <thead> stand for?  The head  Table head  Table header  None of the above|Table head
+Semantics is  the practice of giving content on the page meaning and structure by using proper element  the set of rules that defines the combinations of symbols that are considered to be a correctly structured document or fragment in that language  circular|the practice of giving content on the page meaning and structure by using proper element
+Semantic code describes the ___ of content on a page, regardless of the style or appearance of that content.  number  value  language|value
+The start attribute defines the number from which an unordered list should start.  True  False|false
+The reverse attribute allows a list to appear in a reverse order in an unordered list.  True  False|false
+Which attribute can be used to change its number within an ordered list?  num  skip  change  value|value
+Which of the following is the best way to use a Font Awesome icon to link to Twitter?  <a href="https://twitter.com/" aria-label="Twitter"> <i class="fa fa-twitter"></i></a>  <a> <i class="fa fa-twitter"></i></a>  <a href="https://twitter.com/" > <i class="fa fa-twitter" aria-label="Twitter"></i></a>  <a href="https://twitter.com/"> <i class="fa fa-twitter"></i></a>|<a href="https://twitter.com/" aria-label="Twitter"> <i class="fa fa-twitter"></i></a>
+Using tags that have semantic meaning  increases accessibility and improve search engine optimization  increases search engine optimization  breaks the separation between content and layout|increases accessibility and improve search engine optimization
+Which of the following code is the correct way to link to an email address?  <a href= "shayhowe@awesome.com?subject=Hi&body=How are you">Email</a>  <a href= "shayhowe@awesome.com?subject=Hi&body=How%20are%20you">Email</a>  <a href= "shayhowe@awesome.com?subject=Hi&body=How%are%you">Email</a>  <a href= "shayhowe@awesome.com?subject=Hi&body=How%20are%20you">Email<a>|<a href= "shayhowe@awesome.com?subject=Hi&body=How%20are%20you">Email</a>
+Which HTML element is used to define list items?  <item>  <ul>  <dl>  <li>|<li>
+What does HTML stand for?|Hypertext Markup Language
+What does FTP stand for?|File Transfer Protocol
+HTTP stands for|Hypertext Transfer Protocol
+Which of the following is part of a URL?|domain or host or protocol
+The Internet is a type of|wide area network
+Which organization is responsible for assigning top-level domain names?|Internet Corporationfor assigned numbers and name (ICANN)
+What does LAN stands for?|Local Area Network
+What does WAN stands for?|Wide Area Network
+Question 16 HTML uses _________ to annotate documents. This is a way of marking up the content to identify specific HTML elements.|tags
+What are proprietary tags?|Tag work only on certain browser
+Which of the following are browsers?|Chorome,Firefox,Safari
+A basic functionality of browsers is to translate HTML documents into viewable webpages.|true
+Which version of HTML included browser specific features?|HTML 2.0
+HTML5 is a cooperation between many parties. Which of the following is NOT part of that cooperation.|Darpa
+A basic functionality of browsers is to translate HTML documents into viewable webpages.|true
+Which of the following is an example of a top-level domain?|.biz / .com
+A single web page may require several iterations of the Request-Response Cycle|true
+Unlike earlier versions of HTML, HTML5 produces pages that look the same across all browsers.|false
+Which of these tags breaks the tenet of the separation of content and layout?|center
+Using the header and footer tags can improve the search engine optimization for your page.|true
+Every well-formed HTML document should include:|doctype,head,body
+block-level element begin on a new line|true
+Inline-level elements begin on a new line|false
+a <div> block is an inline-level element|false
+A <span> block is an inline-level element|true
+The start attribute defines the number from which an unordered list should start.|flase
+The reverse attribute allows a list to appear in a reverse order in an unordered list.|false
+Which attribute can be used to change its number within an ordered list?|<ol>  <li>Vegetables</li>  <li>Fruit <ul>  <li>Blueberries</li> <li>Bananas</li> </ul> </li> </ol>
+The <ul> and <o> elements may contain only <li> elements.|true
+The tags to create definitions are:|<dl>,<dt>,<dd>
+In order for the <img> element to work, a src attribute and value must be included to specify the source of the image.|true
+The alt text of an image should describe the appearance of an image|false
+What are the elements to help organize the data and structure of a table?|<caption>,<thead>,<tbody>,<tfoot>
+What does <thead> stand for?|table head
+To access your cPanel account, you need ...|a specific URL to log in
+To access your cPanel account, you need ...|a username and password from your computer
+To use ftp software to transfer files you will typically need to know your site's ftp address or ip address.|true
+If your body tag uses the style attribute style="text-align:center", you can overwrite that property by using the CSS3 rule. body{ text-align: left; }|false
+What is wrong with the following code? body{ color: #000000; background-color:#FFFFFF font-family: Times, Arial, Cursive; }|there is missing semicolon
+The browser defaults override rules specified in an external style sheets.|false
+Using the code below, will the body of the page have the background-color defined in the file style.css or the background color define in the <style> tag?|<style>
+Internal styling (rules specified in the <head> section) override rules specified with the style attribute in a tag.|false
+A block element takes up the full width of it's parent, even if the content is smaller than the parent. So two block elements at the same will not be side-by-side|true
+Inline elements take up the full width of the browser, even if the content is smaller than the browser size.|false
+Which of the following is the best way to convey that your text has special meaning?|Using semantic tags in addition to color and/ or font
+Which of these options does NOT require the use of parentheses?|console.log(message)
+How does prompt differ from alert?|the prompt will return a value, alert does not
+Variables allow you to save data.|true
+Question 10 What does it mean that variables are case-sensitive?|That the computer does not think that the variables name and Name are the same thing.
+Which of the following is not a valid variable name?|variable-2,
+What does HTTP stand for?|Hypertext Transfer Protocol
+Which of the following is part of a URL? A. protocol B. editor C. hosting service|A
+The Internet is a type of A. Wide Area Network B. Hypertext Network C. Local Area Network|A
+What is the Request/Response Cycle? A. The process that happens when a server requests a page and a client responds with the appropriate files B. The process that happens when a HTML5 is created with an editor C. The process that happens when a client requests a page and a server responds with the appropriate files|C
+The Domain Name Service looks up the domain and returns the A. IP address B. server C. host D. document|A
+Which organization is responsible for assigning top-level domain names? A. Internet Corporation for Assigned Number and Names ( ICANN) B. Internet Domain Name Server (IDNS) C. World Wide Web Consortium (W3C)|A
+The Request-Response Cycle... A. is an outdated process used by HTML 4.1 B. may require several iterations of the Request - Response Cycle C. is performed once for each requested page|B
+What does LAN stand for?|Local Area Network
+What does WAN stand for?|Wide Area Network
+Which is the correct file extension for a web page? A. .ppt B. .doc C. .html D. .txt|C
+HTML uses _________ to annotate documents. This is a way of marking up the content to identify specific HTML elements.|Tags
+What are proprietary tags? A. Tags that work only on certain browsers B. Tags used to define ownership of the content C. Tags that displayed copyright information|A
+Which of these tags breaks the tenet of the separation of content and layout? A. body B. h1 C. font D. br|C
+Which of the following are browsers? A. Chrome , Firefox , Safari B. Firefox, Windows, Chrome C. Safari, Mac, Sublime, Chrome|A
+W3C stands for:|World Wide Web Consortium
+Which version of HTML introduced semantic tags? A. HTML 4.0.1 B. HTML 5 C. HTML 2.0 D. HTML 3.2|B
+The predecessor of the internet was A. DARPA B. CompuServe C. Arpanet D. Al Gore|C
+CSS stands for|Cascading Style Sheets
+Which of the following is an example of a top-level domain? A. .biz B. umich.edu C. mysite|A
+Semantics is A. the practice of giving content on the page meaning and structure by using proper element B. the set of rules that defines the combinations of symbols that are considered to be a correctly structured document or fragment in that language C. circular|A
+Semantic code describes the ___ of content on a page, regardless of the style or appearance of that content. A. number B. value C. language|B
+Using tags that have semantic meaning A. increases accessibility and improve search engine optimization B. increases search engine optimization C. breaks the seperation between content and layout|A
+Every well-formed HTML document should include: A. doctype, head, body B. doctype, header, body C. header, nav, footer D. alt text|A
+What is wrong with the following code? <a href = "http://www.umich.edu"></a> A. This link doesn't provide any way to click on the link. B. The anchor link is self-closing. Remove the </a> and the code will work. C. The alt text attribute is missing from the tag D. This code is semantically and syntactically correct.|A
+Which tag represents a line break (new line)? A. <br> B. <lb> C. <break> D. <line>|A
+Which of the following is the correct way to comment on HTML5? A. <?--HTML--> B. <#--HTML--> C. <!--HTML--> D. <$--HTML-->|C
+Which of the following are valid tags for HTML5 headings? A. <h5>...</h5> B. <h7>...</h7> C. <heading>...</heading> D. <h9>...</h9>|A
+All of the content you wish to appear on the screen should be in which tag? A. <main> B. <body> C. <html> D. <content>|B
+Which tag is used to create a link? A. <hyper> B. <link> C. <a> D. <anchor>|C
+Which of the following code is the correct way to link to an email address? A. <a href= "shayhowe@awesome.com?subject=Hi&body=How are you">Email</a> B. <a href= "shayhowe@awesome.com?subject=Hi&body=How%20are%20you">Email</a> C. <a href= "shayhowe@awesome.com?subject=Hi&body=How%are%you">Email</a> D. <a href= "shayhowe@awesome.com?subject=Hi&body=How%20are%20you">Email<a>|B
+Which HTML element will number items for you? a. <ul> b. <dl> c. <num> d. <ol>|D
+Which attribute can be used to change its number within an ordered list? A. num B. skip C. change D. value|D
+Which code properly creates the nested list structure shown here? 1. Vegetables 2. Fruit ·Blueberries ·Bananas A. <ul>  <li>Vegetables</li>  <li>Fruit>/li> <ol>  <li>Blueberries</li> <li>Bananas</li> </ol> </ul> b. <ol>  <li>Vegetables</li>  <li>Fruit>/li> <ul>  <li>Blueberries</li> <li>Bananas</li> </ul> </ol> C.<ul>  <li>Vegetables</li>  <li>Fruit <ol>  <li>Blueberries</li> <li>Bananas</li> </ol> </li> </ul> D.<ol>  <li>Vegetables</li>  <li>Fruit <ul>  <li>Blueberries</li> <li>Bananas</li> </ul> </li> </ol>|D
+The tags to create definitions are; A. <dl>, <dt>, <dd> B. <dl>, <term>, <def> C. <def>, <dt>, <dd> D. <def>, <dt>, <li>|A
+What should target = "_blank" do when included in a link tag? A. Opens the link in a new tab or window B. Opens the link in a a tab called "_blank" C. This is not a valid expression|A
+When should an image have null (empty) alt text (alt - "") A. When the image is black and white B. When the image is complex C. When the image is decorative D. When the image already displays descriptive text|C
+What are the elements to help organize the data and structure of a table? A. <caption>, <head>, <body>, <foot> B. <caption>, <thead>, <tbody>, <foot> C. <caption>, <thead>, <tbody>, <tfoot> D. <caption>, <thead>, <body>, <foot>|C
+What does <thead> stand for? A. The head B. Table head C. Table header D. None of the above|C
+Which code will properly insert headings along each row? A. <table> <tr><td>Name</td><td>Age</td><td>Team</td></tr> <tr><td>Colleen</td><td>26</td><td>Browns</td></tr> </table> B. <table> <tr><td>Name</td><td>Age</td><td>Team</td></tr> <tr><th>Colleen</th><th>26</th><th>Browns</th></tr> </table> C. <table> <tr><th>Name</th><td>Colleen</td></tr> <tr><th>Age</th><td>26</td></tr> <tr><th>Team</th><td>Browns</td></tr> </table> D. <table> <tr><th>Name</th><th>Age</th><th>Team</th></tr> <tr><td>Colleen</td><td>26</td><td>Browns</td></tr> </table>|C
+What validation error will this code produce? <!DOCTYPE html> <html lang="en"> <head>  <meta charset="UTF-8"> <title>Testing</title> </head> <body> <p>  <h2>Validate me!</h2>  </p> </body> </html> A. No p element in scope but a p end tag seen B. No error C. Start tag seen without seeing a doctype first. Expected e.g <!DOCTYPE html>|A
+What validation error will this code produce? <!DOCTYPE html> <html lang="en"> <head></head> <body>  <p> Validate me! </p> </body> </html> A. End of file seen when expecting text or an end tag B. No error C. Element head is missing a required instance of child element title|C
+To access your cPanel account, you need ... A. a username and password from your hosting server B. the username and password for your computer C. the port number for your account|A
+To publish your site online you need A. a domain name and hosting service B. an account through work or school C. a client|A
+Which is the best/proper way to declare that your page uses the HTML5 protocol? A. <!html> B. <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 5.01//EN" "http://www.w3.org/TR/html5/strict.dtd"> C. <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"> D. <!DOCTYPE> E. <!DOCTYPE html>|E
+Which is the best/proper way to declare that the language for your page is English? A. <html lang="english"> B. <html lang=en> C. <html lang="en"> D. <lang="english"> E. <lang="en">|C
+What is the best/proper way to create the meta-data for your page? A. <meta charset="utf-8"> <title>Mister Rogers</title> </meta> B. <header> <meta charset="utf-8"> <title>Mister Rogers</title> </header> C.<head> <title>Mister Rogers</title> </head> D.<head> <meta charset="utf-8"> <title>Mister Rogers</title> </head> E.<head> <meta charset="utf-8"> </head> <body> <title>Mister Rogers</title> </body> F.<head> <meta charset="utf-8"> </head> G.<head> <meta charset=utf-8> <title>Mister Rogers</title> </head>|D
+Which is the best/proper way to declare the header for a page? A. <div id = "header"> <h1>Mister Rogers</h1> <div id = "nav"> <a href="one.html">one</a> <a href="two.two.html">two</a> <a href="three.html">three</a> <a href="songs.html">Songs</a> </div> </div> B.<header> <h1>Mister Rogers</h1> <nav> </header> <a href="one.html">one</a> <a href="two.two.html">two</a> <a href="three.html">three</a> <a href="songs.html">Songs</a> </nav> C. <header> <h1>Mister Rogers</h1> <nav> <a href="one.html">one</a> <a href="two.two.html">two</a> <a href="three.html">three</a> <a href="songs.html">Songs</a> </nav> </header> D.<head> <h1>Mister Rogers</h1> <nav> <a href="one.html">one</a> <a href="two.two.html">two</a> <a href="three.html">three</a> <a href="songs.html">Songs</a> </nav> </head>|C
+Which is the best/proper way to declare a section that has an h2 heading and an unordered list? A. <section> <h2>Favorite Foods</h2> <p> <ul> <li>stuff</li> <li>more</li> <li>stuff</li> <li>again</li> </ul> </p> </section> B. <section> <h2>Favorite Foods</h2> </section> <ul> <li>stuff</li> <li>more</li> <li>stuff</li> <li>again</li> </ul> C.<section> <h2>Favorite Foods</h2> <ul> <li>stuff</li> <li>more</li> <li>stuff</li> <li>again</li> </ul> </section> D.<section> <h2>Favorite Foods</h2> <ol> <li>stuff</li> <li>more</li> <li>stuff</li> <li>again</li> </ol> </section>|C
+Which is the best/proper way to declare a section that has an h2 heading and three progress elements? A. <section> <h2>Achievements</h2> <p>Progress in this course (100%)<progress>100%</progress><br/> Progress in the Specialization capstone (20%)<progress>20%</progress><br/> Progress in life goals (70%)<progress>70%</progress></p> </section> B.<section> <h2>Achievements</h2> <p>Progress in this course (100%)<progress value="1"></progress><br/> Progress in the Specialization capstone (20%)<progress value="20" max="100"></progress><br/> Progress in life goals (70%)<progress value="70" max="100"></progress></p> </section> C.<section> Achievements <p>Progress in this course (100%)<progress>100%</progress><br/> Progress in the Specialization capstone (20%)<progress>20%</progress><br/> Progress in life goals (70%)<progress>70%</progress></p> </section> D.<section> <h2>Achievements</h2> <p>Progress in this course (100%)<progress value="1"></progress> Progress in the Specialization capstone (20%)<progress value="20" max="100"></progress> Progress in life goals (70%)<progress value="70" max="100"></progress></p> </section>|B
+What is the best/proper way to declare a section that has an h2 heading and uses a detail tag? A.<section> <h2>More about me</h2> <details open> <h2>My Childhood</h2> <p>stuff happened, I grew up</p> </details> </section> B.<section> <h2>More about me</h2> <details open> <summary>My Childhood</summary> <p>stuff happened, I grew up</p> </details> </section> C.<section> <h2>More about me</h2> <details> <summary>My Childhood</summary> <p>stuff happened, I grew up</p> </div> </section> D. <section> <h2>More about me</h2> <details> <summary> My Childhood <p>stuff happened, I grew up</p> </summary> </details> </section>|B
+What is the best/proper way to create a footer that has an image, paragraph, and link? Be careful, that paragraph includes a special entity. A.<footer> <p> <img src="http://www.intro-webdesign.com/images/newlogo.png" alt="new logo"/> This page was created by Mister Rogers &amp; Colleen van Lent. To learn more about web design, visit <a href="http://www.intro-webdesign.com">Intro to Web Design</a> </p><footer>  B.<div id = "footer"> <p> <img src="http://www.intro-webdesign.com/images/newlogo.png" alt="new logo"/> This page was created by Mister Rogers &amp; Colleen van Lent. To learn more about web design, visit <a href="http://www.intro-webdesign.com">Intro to Web Design</a></p> </div> C.<footer> <p> <img src="http://www.intro-webdesign.com/images/newlogo.png" alt="new logo"> This page was created by Troy &amp; Colleen van Lent. To learn more about web design, visit <a href="http://www.intro-webdesign.com">Intro to Web Design</a> </p> </footer> D.<div id = "footer"> <p> <img src="http://www.intro-webdesign.com/images/newlogo.png" alt="new logo"/> This page was created by Mister Rogers &amp; Colleen van Lent. To learn more about web design, visit <a href="http://www.intro-webdesign.com">Intro to Web Design</a></p></div>|C
+Which of the following is not|prompt
+How does prompt differ from alert?|value, prompt does not.
+Which of the following is not|variable$2
+What is wrong with this code? var name="Mike"; "Colleen"=name;|This code is illegal and it doesn't make sense to have
+Which is the correct syntax to change the contents of the HTML element below? <p id="quiz">This is|quiz.</p>
+Consider the following code: <body> <p> This is paragraph one </p> <p onclick="Hello()"> This|The user places his/her mouse over any paragraph on the page
+What is wrong with this function definition? fuction Hello();{ alter("Hello"); document.write("Hello on the screen"); }|The semicolon after Hello()
+Which is the correct syntax to change the contents of the HTML element below? <p id="quiz">This is|document.getElementsByTagName('p').innerHTML("New content!");
+Unlike earlier versions of HTML, HTML5 produces pages that look the same across all browsers.|False
+A ________________________ is a computer that is in charge of handling resource requests from multiple computers.|sever
+Question 18 The first graphical browser was.... (please use one word answer)|violawww/mosaic
+Which version of HTML introduced different document types?|HTML 2.0
+What does HTML5 stand for?|hypertextmarkuplanguagerevision5
+Which of these tags breaks the tenet of the separation of content and layout?|body
+What is wrong with the following code? 1 <a href = "picture.jpg">My dog</a> chews socks.|This code is semantically and syntactically correct.
+Which code properly creates the nested list structure shown here? 1. Vegetables 2. Fruit ·Blueberries ·Bananas Notice that the blueberries and bananas are part of the fruit component.|<ol>  <li>Vegetables</li>  <li>Fruit  <ul>  <li>Blueberries</li>  <li>Bananas</li>  </ul>  </li> </ol>
+The <ul> and <o> elements may contain only <li> elements.|True
+Using tags that have semantic meaning|increasesaccessibilityandimprovesearchengineoptimazation
+What validation error will this code produce? <!DOCTYPE html> <html lang="en"> <head> <meta charset="UTF-8"> <title>Testing</title> </head> <body> <p> <h2>Validate me!</h2> </p> </body> </html> |No error
+What validation error will this code produce? <!DOCTYPE html> <html lang="en"> <head></head> <body> <p> Validate me! </p> </body> </html>|Element head is missing a required instance of child element title.
+To use ftp software to transfer files you will typically need to know your site's ftp address or ip address.|True
+Question 3 What is the best/proper way to create the meta-data for your page?|<meta charset="utf-8">  <title>Mister Rogers</title> </meta>
+Which is the best/proper way to declare the header for a page?|<header>  <h1>Mister Rogers</h1>  <nav>  <a href="one.html">one</a>  <a href="two.two.html">two</a>  <a href="three.html">three</a>  <a href="songs.html">Songs</a>  </nav> </header>
+Which is the best/proper way to declare a section that has an h2 heading and an unordered list?| <section>  <h2>Favorite Foods</h2>  <ul>  <li>stuff</li>  <li>more</li>  <li>stuff</li>  <li>again</li>  </ul> </section>
+Which is the best/proper way to declare a section that has an h2 heading and three progress elements?| <section>  <h2>Achievements</h2>  <p>Progress in this course (100%)<progress value="1"></progress><br/>  Progress in the Specialization capstone (20%)<progress value="20" max  ="100"></progress><br/>  Progress in life goals (70%)<progress value="70" max="100"></progress></p> </section>
+What is the best/proper way to declare a section that has an h2 heading and uses a detail tag?| <section>  <h2>More about me</h2>  <details open>  <summary>My Childhood</summary>  <p>stuff happened, I grew up</p>  </details> </section>
+Question 8 What is the best/proper way to create a footer that has an image, paragraph, and link? Be careful, that paragraph includes a special entity.| <footer> <p>  <img src="http://www.intro-webdesign.com/images/newlogo.png" alt="new logo">  This page was created by Troy &amp; Colleen van Lent. To learn more about  web design, visit  <a href="http://www.intro-webdesign.com">Intro to Web Design</a>  </p> </footer>
+Given this rule: div{ border-width:10px 5px; } what is the width of the right border?|5px
+The margin is the space between elements.|True
+The padding and margin properties can be styled with unique colors.|False
+How much horizontal space ("width") will this div use? div{ width:50px; padding: 10px; margin: 5px; border: 2px; }|84px
+How much vertical space ("height") will this div use? div{ height:50px; padding: 5px 10px; margin: 5px; border: 2px; }|74px
+The list-style-type property applies to:|both ordered and unordered lists
+Descendant selectors 1 2 3 nav a{ .... } are more specific than child selectors nav>a{ .... }|False
+The class selectors are part of the DOM|True
+Which of the following is not an option for specifying a color in CSS3?A. hexadecimal|rgba
+The browser defaults override rules specified in an external style sheets|False
+Which CSS3 property is used to center text? (Only provide the property name; do not give it a value.)|text-align
+Assume that this code is linked together correctly .p{ color: red; padding:10px 5px; background: black; } .fancy{ font-family: cursive; background: red; color: green; } .plain{ font-family: Times, serif; color: black; } <p>Hi</p> What color font is used to display "Hi"?|red
+Assume that this code is linked together correctly .p{ color: red; padding:10px 5px; background: black; } .fancy{ font-family: cursive; background: red; color: green; } .plain{ font-family: Times, serif; color: black; } <p class = "plain fancy">Hi</p> What color font is used to display "Hi"?|black
+Which of the following would be used to create class called button which has a width of 750px, a height of 30px and the color of the text is black?| .button {  height: 30px;  width: 750px;  color: black;  }
+Descendant selectors nav a{....} are more general than child selectors nav>a{....}|True
+How much width will this div occupy?div{ width:100px; padding: 10px; margin: 5px; border: 2px; }|134px
+Sometimes elements overlap one another. Which property specifies the stacking order of the elements? (A high value means it is more likely to be place in front of another.) ONLY PROVIDE THE PROPERTY, NOT A VALUE.|z-index
+Which rule will change the text color of p elements with the class "highlight" when hovered over?|.highlight:hover{ color:green; }
+JavaScript uses what kind of interface to access the DOM structure?A. CSS3|HTML5
+Which attribute is used to link to an external JavaScript file?|g., href = "extFile.js"
+You can call a function without it being defined.|True
+What is wrong with this function definition?function Hello();{alert("Hello");document.write("Hello on the screen");}|The semicolon after Hello()
+Consider the following code:<body><p> This is paragraph one </p><p onclick = "Hello()"> This is paragraph two </p></body>The function Hello() will be called every time:|The user clicks on the second paragraph on the page
+Give an example screen width size for a mobile phone using pixels. (Just provide a number, and not the px!!!)|500
+True or False, the Bootstrap grid system works across multiple devices|True
+Which Bootstrap class will apply a striped look to a Bootstrap table?|table-striped
+Which of the following code segments will create two equal columns?| <div class="row"> <div class="col-sm-6">.col-sm-4</div> <div class="col-sm-6">.col-sm-4</div> </div>
